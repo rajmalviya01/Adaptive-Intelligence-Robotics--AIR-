@@ -1,0 +1,2 @@
+# Adaptive Intelligence Robotics (AIR)
+ Adaptive Intelligence Robotics (AIR) focuses on creating customizable robots designed specifically for diverse missions in India, including defense, agriculture, healthcare, and disaster relief. These robots are equipped with modular components, allowing them to be tailored to the specific needs of each sector, providing cost-effective, field-ready solutions.
